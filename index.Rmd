@@ -1,5 +1,4 @@
 ---
-usethis::use_git()
 title: "What Makes Clinical Research Ethical ?"
 subtitle: "MDCRC 6430 - Session Two"
 session: ""
